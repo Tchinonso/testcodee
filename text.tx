@@ -1,0 +1,52 @@
+<!doctype>
+<html>
+<head>
+
+</head>
+
+<body>
+
+</body>
+
+</html>
+
+tags <p> </p>
+elements <p> hello </p>
+
+<h1> - <h6>
+
+snippet
+
+1 <div><div> defines a section in a document
+2 <p></p>
+<a></a>
+<href>
+<article></article>
+<aside></aside>
+<footer></footer>
+<button></button>
+<br>
+<form></form>
+<header></header>
+<img>
+<ul></ul>
+<ol></ol>
+<span></span>
+
+comment
+italics
+
+tables
+th
+tr
+td
+
+
+
+
+ <h1></h1>
+ <h2></h2>
+ <h3></h3>
+ <h4></h4>
+ <h5></h5>
+ <h6></h6>
