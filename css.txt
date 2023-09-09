@@ -1,0 +1,13 @@
+CSS - Cascading Style Sheet... css is a style sheet language, used for designing the presentation of a document written in a Markup Language.
+
+3 ways to write CSS
+
+1) in-line CSS
+2) Internal CSS
+3) External CSS
+
+in-line styles are plonked into the html tags using the style attribute.
+
+internal css are embedded in the same page but in the html head
+
+and lastly external css are written in a different file, with the (.css extension) and imported inside the html page with the link rel function
