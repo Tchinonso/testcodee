@@ -11,3 +11,20 @@ in-line styles are plonked into the html tags using the style attribute.
 internal css are embedded in the same page but in the html head
 
 and lastly external css are written in a different file, with the (.css extension) and imported inside the html page with the link rel function
+
+CSS selectors,
+
+1 .class selects by class name
+2 #id selects by id
+3 tag selects the tag
+4 * selects all elements
+5 div > p selects all p inside the div
+6 div + p selects the p immediately after the div
+7 div ~ p selects the p preceded by the div
+8 div.intro selects div with the class intro
+
+to select sizes in css you use 
+
+px
+em
+rem
