@@ -1,0 +1,12 @@
+.parent{
+    /* border: 1px solid red; */
+    height: 80px;
+    display: flex;
+    gap: 10px;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: row;
+}
+/* .firstchild{
+    display: flex;
+} */

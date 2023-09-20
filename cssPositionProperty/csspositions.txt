@@ -1,0 +1,9 @@
+CSS-POSITION PROPERTY
+
+1 STATIC POSITION - positions the item according to the normal page flow, according to default.
+
+2 FIXED POSITION - always stays at the same place, scrolling does not changes the position of any fixed
+
+3 RELATIVE POSITION - Any element positioned as relative is rearranged relative to its normal position
+
+4 ABSOLUTE POSITION - Any element with position absolute placed with its parent element. if it has no parent element the document body is considered.
