@@ -1,0 +1,1 @@
+css allows animation of html elements without using javascript or flash.

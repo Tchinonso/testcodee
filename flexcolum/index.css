@@ -1,0 +1,25 @@
+.parent{
+    border: 3px solid gray;
+    height: 700px;
+    width: 16rem;
+    border-radius: 30px;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.parent .children{
+    background-color: rgb(187, 54, 54);
+    margin: 3px;
+    width: 10rem;
+    height: 10rem;
+    border-radius: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: aliceblue;
+    font-weight: 900;
+    font-size: 25px;
+}
