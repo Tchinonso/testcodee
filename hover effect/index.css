@@ -1,0 +1,12 @@
+button{
+    width: 6rem;
+    height: 2rem;
+    background-color: aquamarine;
+    color: aliceblue;
+    border: none;
+    border-radius: 6px;
+}
+button:hover{
+    background-color: brown;
+    color: aqua;
+}
