@@ -1,0 +1,230 @@
+@media screen and (max-width: 767px) {
+    .container{
+    }
+    .nav-image{
+        width: 200px;
+        height: 50px;
+    }
+    .nav-image img{
+        width: 100%;
+        height: 100%;
+    }
+    .cont-nav{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+    }
+    .ul-items{
+        display: none;
+    }
+    .nav-profile{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+     /* hero section css */
+
+
+     .hero-section{
+        position: relative;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        width: 100%;
+    }
+    .heroSection1{
+        width: 80%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+    .heroSection2{
+        position: relative;
+        width: 100%;
+        height: 360px;
+    }
+    .heroSection2 img{
+        position: absolute;
+        width: 70%;
+        margin: 0;
+        margin-left: 6rem;
+        margin-top: 2rem;
+    }
+    .welcome{
+        font-size: 20px;
+        font-style: Montserrat;
+    }
+    .sustainable{
+        font-size: 16px;
+        font-weight: 100;
+    }
+    .shoping{
+        font-size: 20px;
+        color: #55B76B;
+    }
+    .btn{
+        background-color: #55B76B;
+        color: aliceblue;
+        width: 150px;
+        height: 37px;
+        border-radius: 5px;
+        border: 0px, 0px, 3px, 0px;
+    }
+    
+}
+
+
+@media screen and (min-width: 768px) and (max-width: 1024px) {
+    .container{
+    }
+    .nav-image{
+        width: 200px;
+        height: 50px;
+    }
+    .nav-image img{
+        width: 100%;
+        height: 100%;
+    }
+    .cont-nav{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+    }
+    .ul-items{
+        display: none;
+    }
+    .nav-profile{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+     /* hero section css */
+
+     .hero-section{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .heroSection1{
+        width: 60%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+    .heroSection2{
+        width: 60%;
+        height: 40px;
+    }
+    .heroSection2 img{
+        width: 89%;
+        margin: 0;
+        margin-left: 8rem;
+        margin-top: 2rem;
+    }
+    .welcome{
+        font-size: 35px;
+        font-style: Montserrat;
+    }
+    .sustainable{
+        font-size: 24px;
+        font-weight: 100;
+    }
+    .shoping{
+        font-size: 33px;
+        color: #55B76B;
+    }
+    .btn{
+        background-color: #55B76B;
+        color: aliceblue;
+        width: 160px;
+        height: 42px;
+        border-radius: 5px;
+        border: 0px, 0px, 3px, 0px;
+    }
+
+}
+
+
+
+@media screen and (min-width: 1024px) {
+    .container{
+    }
+    .nav-image{
+        width: 200px;
+        height: 50px;
+    }
+    .nav-image img{
+        width: 100%;
+        height: 100%;
+    }
+    .cont-nav{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+    }
+    .ul-items{
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 2rem;
+        list-style: none;
+    }
+    .nav-profile{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    /* hero section css */
+
+    .hero-section{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        align-items: center;
+    }
+    .welcome{
+        font-size: 30px;
+        font-style: Montserrat;
+    }
+    .sustainable{
+        font-size: 20px;
+        font-weight: 100;
+    }
+    .shoping{
+        font-size: 25px;
+        color: #55B76B;
+    }
+    .btn{
+        background-color: #55B76B;
+        color: aliceblue;
+        width: 160px;
+        height: 42px;
+        border-radius: 5px;
+        border: 0px, 0px, 3px, 0px;
+    }
+}
+
+
+
+@media screen {
+    
+}
+@media screen {
+    
+}
+@media screen {
+    
+}
+
+
+
+
+
+
